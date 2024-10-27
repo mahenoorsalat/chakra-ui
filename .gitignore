@@ -86,8 +86,6 @@ typings/
 *.tgz
 
 # dotenv environment variables file
-.env
-.env.*
 
 # Mac files
 .DS_Store
@@ -106,3 +104,4 @@ report.*
 .vercel
 
 *storybook.log
+config.bat
