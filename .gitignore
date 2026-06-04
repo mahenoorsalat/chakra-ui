@@ -86,8 +86,6 @@ typings/
 *.tgz
 
 # dotenv environment variables file
-.env
-.env.*
 
 # Mac files
 .DS_Store
@@ -101,3 +99,4 @@ yarn-error.log
 
 report.*
 *.backup
+config.bat
